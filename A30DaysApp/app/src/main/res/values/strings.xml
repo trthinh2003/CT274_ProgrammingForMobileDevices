@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">A30DaysApp</string>
+    <string name="day_1">Tập Plank</string>
+    <string name="day_1_info">Plank vào ngày đầu tiên giúp cho cơ thể thư giãn, đồng thời đẩy nhanh tiếp nhận năng lượng cho các ngày kế.</string>
+    <string name="day_2">Tập Cardio</string>
+    <string name="day_2_info">Tập Cardio vào ngày thứ 2 giúp cơ thể đốt cháy calo nhanh chóng, tạo động lực cho ngày kế.</string>
+    <string name="day_3">Chạy bộ</string>
+    <string name="day_3_info">Chạy bộ sau ngày 1 và ngày 2 là lựa chọn tốt, giúp hôi phục năng lượng sau 2 ngày vất vả.</string>
+    <string name="day_4">Tập Aerobic</string>
+    <string name="day_4_info">Aerobic sau 3 ngày để hồi phục năng lượng tốt nhất, giải tỏa căng thẳng mệt mỏi.</string>
+    <string name="day_5">Nhảy dây</string>
+    <string name="day_5_info">Nhảy dây vào ngày 5 sau 4 ngày tập nặng, giúp nâng cao sức khỏe và rèn luyện sự tập trung.</string>
+    <string name="day_6">Đi bộ</string>
+    <string name="day_6_info">Đi bộ giải tỏa căng thẳng sau 5 ngày tập luyện vất vả, đồng thời giải phóng năng lượng tích cực.</string>
+    <string name="day_7">Chơi bóng rổ</string>
+    <string name="day_7_info">Chơi bóng rổ cùng bạn bè sau nhiều 5 ngày tập luyện là một lựa chọn thông minh, tăng tính kết nối và mang lại sự tích cực.</string>
+    <string name="day_8">Chơi bóng đá</string>
+    <string name="day_8_info">Tương tự như bóng rổ, bóng đá sẽ là một lựa chọn tốt cho ai muốn duy trì việc tập luyện thể dục thể thao.</string>
+    <string name="day_9">Chơi bóng chuyền</string>
+    <string name="day_9_info">Còn gì tuyệt vời hơn khi được chơi bóng chuyền cùng bạn bè, giúp xả stress sau hơn một tuần căng thẳng.</string>
+    <string name="day_10">Tập Planche</string>
+    <string name="day_10_info">Ngày 10 tập nặng với bài tập Planche, đòi hỏi cần có một cơ vai và cơ sườn mạnh để thực hiện động tác này.</string>
+</resources>
